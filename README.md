@@ -1,7 +1,7 @@
 
-## Hi there 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁 
+## Hi 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁 
 
-Hello, my name is Lawrence Chuang, and I am a master's student at the [University of Nevada, Reno](https://www.unr.edu/cse), majoring in Computer Science and Engineering. I have more than 9 years of work experience in the software, banking technology, and IoT solutions industries. During this time, I have acquired strong skills in troubleshooting, providing on-site customer service support, solving critical technical problems, and successfully completing several significant projects with great teams in various fields. 
+Hello, my name is Lawrence Chuang come from Taiwan🇹🇼, and I am a master's student at the [University of Nevada, Reno](https://www.unr.edu/cse), majoring in Computer Science and Engineering. I have more than 9 years of work experience in the software, banking technology, and IoT solutions industries. During this time, I have acquired strong skills in troubleshooting, providing on-site customer service support, solving critical technical problems, and successfully completing several significant projects with great teams in various fields. 
 
 Currently, I am employed as a full-stack engineer at [the Nevada System of Higher Education, System Computing Services.]() My expertise includes Splunk, Splunk visualization dashboards, Python, Java, HTML, Web-Service API, Sigfox IoT, Technical Support, Project Management, and Customer-Facing. 
 
@@ -16,7 +16,8 @@ A little about me:
 - 🐕 Dog Lover
 - ✉️ How to reach me: green760223@gmail.com
 - 😄 Pronouns: Programmer/He/Him/His
-- 📄 [Resume](https://drive.google.com/file/d/14OfpWoUCu8lQT9jM7i45X0B9_os4Otdm/view?usp=sharing)
+- ✍️ [Medium](https://medium.com/@lawrencechuang760223)
+- 📄 [Personal Resume](https://drive.google.com/file/d/14OfpWoUCu8lQT9jM7i45X0B9_os4Otdm/view?usp=sharing)
 
 **Languages and Tools:** 
 
@@ -33,7 +34,7 @@ A little about me:
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![Lawrence's Github Stats](https://github-readme-stats.vercel.app/api?username=green760223&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=green760223&hide=TeX&layout=compact)
+![Lawrence's Github Stats](https://github-readme-stats.vercel.app/api?username=green760223&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=green760223&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=green760223)
