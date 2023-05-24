@@ -1,7 +1,7 @@
 
 ## Hi 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁 
 <!-- <h2 align="center">Hi 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁 </h2> -->
-
+</br>
 Hello, my name is Lawrence Chuang come from Taiwan🇹🇼, and I am a master's student at the [University of Nevada, Reno](https://www.unr.edu/cse), majoring in Computer Science and Engineering. I have more than 9 years of work experience in the software, banking technology, and IoT solutions industries. During this time, I have acquired strong skills in troubleshooting, providing on-site customer service support, solving critical technical problems, and successfully completing several significant projects with great teams in various fields. 
 
 Currently, I am employed as a full-stack engineer at [the Nevada System of Higher Education, System Computing Services.]() My expertise includes Splunk, Splunk visualization dashboards, Python, Java, HTML, Web-Service API, Sigfox IoT, Technical Support, Project Management, and Customer-Facing. 
