@@ -4,9 +4,7 @@
 
 </br>
 
-Hello, my name is Lawrence Chuang come from Taiwan🇹🇼, and I am a master's student at the [University of Nevada, Reno]([https://www.unr.edu/cse](https://www.unr.edu/cse)), majoring in Computer Science and Engineering. I have more than 9 years of work experience in the software, banking technology, and IoT solutions industries. During this time, I have acquired strong skills in troubleshooting, providing on-site customer service support, solving critical technical problems, and successfully completing several significant projects with great teams in various fields. 
-
-</br>
+Hello, my name is Lawrence Chuang come from Taiwan🇹🇼, and I am a master's student at the [University of Nevada, Reno]([https://www.unr.edu/cse](https://www.unr.edu/cse)), majoring in Computer Science and Engineering. I have more than 9 years of work experience in the software, banking technology, and IoT solutions industries. 
 
 Currently, I am employed as a full-stack engineer at [the Nevada System of Higher Education, System Computing Services.](https://github.com/green760223/green760223/blob/main) My expertise includes Splunk, Splunk visualization dashboards, Python, Java, HTML, Web-Service API, Sigfox IoT, Technical Support, Project Management, and Customer-Facing. 
 
