@@ -1,5 +1,3 @@
-
-<!-- ## Hi 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁  -->
 <h1 align="center">Hi 👋, I am Lawrence Chuang! 😁</h2>
 
 </br>
@@ -25,7 +23,6 @@ A little about me:
 - 📄 [Personal Resume](https://drive.google.com/file/d/14OfpWoUCu8lQT9jM7i45X0B9_os4Otdm/view?usp=sharing)
 
 <h2 align="center">Languages and Tools:</h2>
-<!-- **Languages and Tools:**  -->
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Splunk](https://img.shields.io/badge/-Splunk-black?logo=splunk&style=social)&nbsp;&nbsp;
@@ -43,5 +40,9 @@ A little about me:
 ![Lawrence's Github Stats](https://github-readme-stats.vercel.app/api?username=green760223&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=green760223&layout=compact&theme=tokyonight)
+
+<h2 align="center">Latest Blog Posts:</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=green760223)
