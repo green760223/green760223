@@ -35,6 +35,7 @@ A little about me:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 ![Lawrence's Github Stats](https://github-readme-stats.vercel.app/api?username=green760223&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=green760223&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=green760223&layout=compact&theme=tokyonight)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=green760223)
