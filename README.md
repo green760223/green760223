@@ -1,5 +1,6 @@
 
-## Hi 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁 
+<!-- ## Hi 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁  -->
+<h2 align="center">Hi 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁 </h2>
 
 Hello, my name is Lawrence Chuang come from Taiwan🇹🇼, and I am a master's student at the [University of Nevada, Reno](https://www.unr.edu/cse), majoring in Computer Science and Engineering. I have more than 9 years of work experience in the software, banking technology, and IoT solutions industries. During this time, I have acquired strong skills in troubleshooting, providing on-site customer service support, solving critical technical problems, and successfully completing several significant projects with great teams in various fields. 
 
@@ -8,7 +9,6 @@ Currently, I am employed as a full-stack engineer at [the Nevada System of Highe
 In addition to my professional pursuits, I am also a skilled photographer specializing in press releases, conferences, and commercials. You are welcome to explore my [Flickr](https://www.flickr.com/photos/lawrence_image/albums) albums to see examples of my work.
 
 A little about me:
-
 - 👨🏻‍💻 I am currently working as a Fullstack Engineer at the Nevada System of Higher Education, System Computing Services.
 - 🏫 University of Nevada, Reno (UNR)
 - 📚 MS in Computer Science and Engineering
@@ -19,7 +19,8 @@ A little about me:
 - ✍️ [Medium](https://medium.com/@lawrencechuang760223)
 - 📄 [Personal Resume](https://drive.google.com/file/d/14OfpWoUCu8lQT9jM7i45X0B9_os4Otdm/view?usp=sharing)
 
-**Languages and Tools:** 
+<h2 align="center">Languages and Tools:</h2>
+<!-- **Languages and Tools:**  -->
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Splunk](https://img.shields.io/badge/-Splunk-black?logo=splunk&style=social)&nbsp;&nbsp;
