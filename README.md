@@ -1,3 +1,4 @@
+
 ### Hi there 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁
 
 Hello, my name is Lawrence Chuang, and I am a master's student at the [University of Nevada, Reno](https://www.unr.edu/cse) , majoring in Computer Science and Engineering. I have more than 9 years of work experience in the software, banking technology, and IoT solutions industries. During this time, I have acquired strong skills in troubleshooting, providing on-site customer service support, solving critical technical problems, and successfully completing several significant projects with great teams in various fields. 
@@ -6,46 +7,31 @@ Currently, I am employed as a full-stack engineer at [the Nevada System of Highe
 
 In addition to my professional pursuits, I am also a skilled photographer specializing in press releases, conferences, and commercials. You are welcome to explore my [Flickr](https://www.flickr.com/photos/lawrence_image/albums) albums to see examples of my work.
 
-<!--
-**green760223/green760223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 I am currently working as a Fullstack Engineer at the Nevada System of Higher Education, System Computing Services.
+- 🏫 University of Nevada, Reno (UNR)
+- 📚 MS in Computer Science and Engineering
+- 📸 Photographer
+- 🐕 Dog Lover
+- ✉️ How to reach me: green760223@gmail.com
+- 😄 Pronouns: Programmer/He/Him/His
+- 📄 [Resume](https://drive.google.com/file/d/14OfpWoUCu8lQT9jM7i45X0B9_os4Otdm/view?usp=sharing)
 
-Here are some ideas to get you started:
+**Languages and Tools:** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br />
-  <samp>
-    😆 Hey! Welcome to my profile
-    <br />
-    <br />🍉 Take a look at my stats  🌱
-    <br />
-    <br />
-  </samp>
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Splunk](https://img.shields.io/badge/-Splunk-black?logo=splunk&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=green760223&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="green760223's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=green760223&layout=compact&theme=buefy&hide_border=true" /> </a> | 
-| ------------- | ------------- |
+![Lawrence's Github Stats](https://github-readme-stats.vercel.app/api?username=green760223&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=green760223&hide=TeX&layout=compact)
 
-</p>
-
-<br />
-
-<p align="right">
-<a><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-<a><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
-<a><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
-<a><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a> 
-<a><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a> 
-<a><img height="20" alt="electron" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></a> 
-<a><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></a> 
-<a><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a> 
-</p>
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=green760223)
