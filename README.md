@@ -1,5 +1,5 @@
 
-### <center>Hi there 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁 </center>
+## Hi there 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁 
 
 Hello, my name is Lawrence Chuang, and I am a master's student at the [University of Nevada, Reno](https://www.unr.edu/cse), majoring in Computer Science and Engineering. I have more than 9 years of work experience in the software, banking technology, and IoT solutions industries. During this time, I have acquired strong skills in troubleshooting, providing on-site customer service support, solving critical technical problems, and successfully completing several significant projects with great teams in various fields. 
 
