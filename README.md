@@ -7,7 +7,6 @@ Hello, my name is Lawrence Chuang come from Taiwan 🇹🇼, and I am a master's
 Currently, I am employed as a full-stack engineer at [the Nevada System of Higher Education, System Computing Services.](https://github.com/green760223/green760223/blob/main) My expertise includes Splunk, Splunk visualization dashboards, Python, Java, HTML, Web-Service API, Sigfox IoT, Technical Support, Project Management, and Customer-Facing. 
 
 In addition to my professional pursuits, I am also a skilled photographer specializing in press releases, conferences, and commercials. You are welcome to explore my [Flickr](https://www.flickr.com/photos/lawrence_image/albums) albums to see examples of my work.
-
 </br>
 A little about me:
 
