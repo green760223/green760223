@@ -9,7 +9,6 @@ Currently, I am employed as a full-stack engineer at [the Nevada System of Highe
 In addition to my professional pursuits, I am also a skilled photographer specializing in press releases, conferences, and commercials. You are welcome to explore my [Flickr](https://www.flickr.com/photos/lawrence_image/albums) albums to see examples of my work.
 
 </br>
-
 A little about me:
 
 - 👨🏻‍💻 I am currently working as a Fullstack Engineer at the Nevada System of Higher Education, System Computing Services.
