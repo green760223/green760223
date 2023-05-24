@@ -43,7 +43,7 @@ A little about me:
 
 <h2 align="center">Latest Blog Posts:</h2>
 <!-- BLOG-POST-LIST:START -->
-- [Functional Programming — Elixir＆Phoenix 學習心得之使用安裝](https://lawrencechuang760223.medium.com/functional-programming-elixir-phoenix-%E5%AD%B8%E7%BF%92%E5%BF%83%E5%BE%97%E4%B9%8B%E4%BD%BF%E7%94%A8%E5%AE%89%E8%A3%9D-5e17d49119c4?source=rss-18aec49417ed------2)
+- [Functional Programming — Elixir＆Phoenix 學習心得之使用安裝](https://medium.com/@weiyun0912/react-%E5%88%9D%E5%AD%B8%E8%80%85%E5%B8%B8%E7%8A%AF%E7%9A%84%E9%8C%AF%E8%AA%A4-%E6%90%9C%E5%B0%8B%E9%99%A3%E5%88%97%E8%B3%87%E6%96%99-d09166d5609e?source=rss-d8aa3754f97a------2)
 - [LINE BOT 聊天機器人 Ch5 — 如何整合 SIGFOX 與 LINE BOT 聊天機器人（上）](https://lawrencechuang760223.medium.com/line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-ch5-%E5%A6%82%E4%BD%95%E6%95%B4%E5%90%88-sigfox-%E8%88%87-line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-%E4%B8%8A-1c491f2e2ab3?source=rss-18aec49417ed------2)
 - [LINE BOT 聊天機器人 Ch4 — 使用 Python 打造第一個 LINE 聊天機器人（下）](https://lawrencechuang760223.medium.com/line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-ch4-%E4%BD%BF%E7%94%A8-python-%E6%89%93%E9%80%A0%E7%AC%AC%E4%B8%80%E5%80%8B-line-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-%E4%B8%8B-ca51690459f7?source=rss-18aec49417ed------2)
 - [LINE BOT 聊天機器人 Ch3 — 使用 Python 打造第一個 LINE 聊天機器人](https://lawrencechuang760223.medium.com/line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-ch3-%E4%BD%BF%E7%94%A8-python-%E6%89%93%E9%80%A0%E7%AC%AC%E4%B8%80%E5%80%8B-line-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-f8c9f250e578?source=rss-18aec49417ed------2)
