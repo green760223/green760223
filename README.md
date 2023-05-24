@@ -1,6 +1,6 @@
 
-## Hi 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁 
-<!-- <h2 align="center">Hi 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁 </h2> -->
+<!-- ## Hi 👋, I am [Lawrence Chuang](https://www.linkedin.com/in/lawrence-chuang/)! 😁  -->
+<h2 align="center">Hi 👋, I am Lawrence Chuang! 😁</h2>
 
 </br>
 
