@@ -40,6 +40,7 @@ A little about me:
 <a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="60px"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/38f0ce433b77acd59222dcf6e66c998ba81f26b4/icons/python.svg" alt="python" height="60px"/> </a> 
 <a href="https://www.java.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/0a81e694f943731560b4715e1199e5832da7349f/icons/java.svg" alt="java" height="70px"/> </a> 
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/6cc630c09fc7f9d135b2f0ccf194310d15ce1727/icons/javascript.svg" alt="javascript" height="60px"/> </a> 
 </p>
 
 
