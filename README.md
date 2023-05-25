@@ -38,6 +38,7 @@ A little about me:
 <a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="42px"/> </a> 
 <a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="42px"/> </a> 
 <a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="42px"/> </a> 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
