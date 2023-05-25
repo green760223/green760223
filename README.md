@@ -37,11 +37,11 @@ A little about me:
 
 
 <p align="center">
-<a href="https://www.splunk.com/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/green760223/green760223/76ba87d7b7c39a696557c400f5f40751c39e5946/icons/splunk.svg" alt="splunk" height="42px"/> </a> 
-<a href="https://www.python.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/green760223/green760223/10cdd275eafbbdc7869123e33cb5eeb42647882b/icons/python_1.svg" alt="python" height="42px"/> </a> 
-<a href="https://www.java.com/" target="_blank"> <img align="center" src="https://github.com/green760223/green760223/blob/main/icons/java.png?raw=true" alt="java" height="42px"/> </a> 
-<a href="https://www.javascript.com/" target="_blank"> <img align="center" src="https://github.com/green760223/green760223/blob/main/icons/javascript.png?raw=true" alt="javascript" height="42px"/> </a> 
-<a href="https://getbootstrap.com/" target="_blank"> <img align="center" src="https://github.com/green760223/green760223/blob/main/icons/bootstrap.png?raw=true" alt="bootstrap" height="42px"/> </a> 
+<a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/76ba87d7b7c39a696557c400f5f40751c39e5946/icons/splunk.svg" alt="splunk" height="42px"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/10cdd275eafbbdc7869123e33cb5eeb42647882b/icons/python_1.svg" alt="python" height="42px"/> </a> 
+<a href="https://www.java.com/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/java.png?raw=true" alt="java" height="42px"/> </a> 
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/javascript.png?raw=true" alt="javascript" height="42px"/> </a> 
+<a href="https://getbootstrap.com/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/bootstrap.png?raw=true" alt="bootstrap" height="42px"/> </a> 
 </p>
 
 
