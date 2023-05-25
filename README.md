@@ -34,9 +34,15 @@ A little about me:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp; -->
-<a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="42px"/> </a> 
-<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/Python.png?raw=true" alt="splunk" height="42px"/> </a> 
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+  <a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223         /6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="42px"/> </a> 
+  <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons       /Python.png?raw=true" alt="splunk" height="42px"/> </a> 
+</p>
 
 
 </br>
