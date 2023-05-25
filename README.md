@@ -41,7 +41,7 @@ A little about me:
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/38f0ce433b77acd59222dcf6e66c998ba81f26b4/icons/python.svg" alt="python" height="42px"/> </a> 
 <a href="https://www.java.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/0a81e694f943731560b4715e1199e5832da7349f/icons/java.svg" alt="java" height="42px"/> </a> 
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/6cc630c09fc7f9d135b2f0ccf194310d15ce1727/icons/javascript.svg" alt="javascript" height="42px"/> </a> 
-<a href="https://www.java.com/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/java.png" alt="java" height="42px"/> </a> 
+<a href="https://www.java.com/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/java.jpg?raw=true" alt="java" height="42px"/> </a> 
 </p>
 
 
