@@ -37,13 +37,11 @@ A little about me:
 
 
 <p align="center">
-<!--   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,elixir,js,vue,bootstrap,html,css,discord,mongodb,mysql,postman,flask,cloudflare,git,github,docker,aws,vscode" />
-  </a> -->
-
-  <a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223         /6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="60px"/> </a> 
-  <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/38f0ce433b77acd59222dcf6e66c998ba81f26b4/icons/python.svg" alt="python" height="60px"/> </a> 
+<a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="60px"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/38f0ce433b77acd59222dcf6e66c998ba81f26b4/icons/python.svg" alt="python" height="60px"/> </a> 
+<a href="https://www.java.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/0a81e694f943731560b4715e1199e5832da7349f/icons/java.svg" alt="java" height="60px"/> </a> 
 </p>
+
 
 </br>
 </br>
