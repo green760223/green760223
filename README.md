@@ -22,7 +22,7 @@ A little about me:
 
 <h2 align="center">Languages and Tools:</h2>
 
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+<!-- ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Splunk](https://img.shields.io/badge/-Splunk-black?logo=splunk&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
@@ -33,10 +33,7 @@ A little about me:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-<a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="42px"/> </a> 
-<a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="42px"/> </a> 
-<a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="42px"/> </a> 
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp; -->
 <a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="42px"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/Python.png?raw=true" alt="splunk" height="42px"/> </a> 
 
