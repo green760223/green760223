@@ -41,8 +41,8 @@ A little about me:
     <img src="https://skillicons.dev/icons?i=py,java,elixir,js,vue,bootstrap,html,css,discord,mongodb,mysql,postman,flask,cloudflare,git,github,docker,aws,vscode" />
   </a> -->
 
-  <a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223         /6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="42px"/> </a> 
-  <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons       /Python.png?raw=true" alt="splunk" height="42px"/> </a> 
+  <a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223         /6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="60px"/> </a> 
+  <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/38f0ce433b77acd59222dcf6e66c998ba81f26b4/icons/python.svg" alt="python" height="60px"/> </a> 
 </p>
 
 </br>
