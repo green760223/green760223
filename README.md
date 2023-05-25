@@ -53,13 +53,15 @@ A little about me:
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/572920ccf8432e143f5cf52f517190a60d269924/icons/css.svg" alt="css3" height="43px"/> </a> 
 
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/a6898e04143891d94b1fd327158596d45d173343/icons/git.svg" alt="git" height="43px"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/a6898e04143891d94b1fd327158596d45d173343/icons/git.svg" alt="git" height="42px"/> </a> 
 
-<a href="https://www.sigfox.com" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/sigfox.png?raw=true" alt="sigfox" height="43px"/> </a> 
+<a href="https://www.sigfox.com" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/sigfox.png?raw=true" alt="sigfox" height="42px"/> </a> 
 
-<a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/postgresql.png?raw=true" alt="postgressql" height="43px"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/postgresql.png?raw=true" alt="postgressql" height="42px"/> </a> 
 
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/mysql_db.png?raw=true" alt="mysql" height="43px"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/mysql_db.png?raw=true" alt="mysql" height="42px"/> </a> 
+
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/mongodb.png?raw=true" alt="mongodb" height="42px"/> </a> 
 </p>
 
 
