@@ -40,6 +40,9 @@ A little about me:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,elixir,js,vue,bootstrap,html,css,discord,mongodb,mysql,postman,flask,cloudflare,git,github,docker,aws,vscode" />
   </a>
+  <a href="https://www.splunk.com/">
+    <img src="https://raw.githubusercontent.com/green760223/green760223/6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" />
+  </a>
 <!--   <a href="https://www.splunk.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223         /6a41ea798aa153266592fea04db0fea3b620d88f/icons/2020-splunk-planet.svg" alt="splunk" height="42px"/> </a> 
   <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons       /Python.png?raw=true" alt="splunk" height="42px"/> </a>  -->
 </p>
