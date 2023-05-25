@@ -53,7 +53,7 @@ A little about me:
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/572920ccf8432e143f5cf52f517190a60d269924/icons/css.svg" alt="css3" height="43px"/> </a> 
 
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/git.png?raw=true" alt="git" height="43px"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/a6898e04143891d94b1fd327158596d45d173343/icons/git.svg" alt="git" height="43px"/> </a> 
 </p>
 
 
