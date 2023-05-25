@@ -48,6 +48,8 @@ A little about me:
 <a href="https://elixir-lang.org/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/elixir_icon.png?raw=true" alt="elixir" height="42px"/> </a> 
   
 <a href="https://getbootstrap.com/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/bootstrap.png?raw=true" alt="bootstrap" height="42px"/> </a> 
+  
+<a href="https://html.com/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/html.png?raw=true" alt="html5" height="42px"/> </a> 
 </p>
 
 
