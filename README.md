@@ -58,6 +58,8 @@ A little about me:
 <a href="https://www.sigfox.com" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/sigfox.png?raw=true" alt="sigfox" height="43px"/> </a> 
 
 <a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/postgresql.png?raw=true" alt="postgressql" height="43px"/> </a> 
+
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/mysql.png?raw=true" alt="mysql" height="43px"/> </a> 
 </p>
 
 
