@@ -72,8 +72,6 @@ A little about me:
 </br>
 </br>
 </br>
-</br>
-</br>
 
 
 ![Lawrence's Github Stats](https://github-readme-stats.vercel.app/api?username=green760223&show_icons=true&theme=tokyonight)
