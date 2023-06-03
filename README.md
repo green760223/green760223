@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Lawrence Chuang! 😁</h2>
+<h1 align="center">Hi 👋, I'm Lawrence Chuang! 😁</h2>
 
 </br>
 
