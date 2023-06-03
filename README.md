@@ -11,7 +11,7 @@ In addition to my professional pursuits, I am also a skilled photographer specia
 
 A little about me:
 
-- 👨🏻‍💻 I am currently working as a Fullstack Engineer at the Nevada System of Higher Education, System Computing Services.
+- 👨🏻‍💻 I am currently working as a Full Stack Engineer at the Nevada System of Higher Education, System Computing Services.
 - 🏫 University of Nevada, Reno (UNR)
 - 📚 MS in Computer Science and Engineering
 - 📸 Photographer
