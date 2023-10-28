@@ -18,7 +18,7 @@ A little about me:
 - 🐕 Dog Lover
 - ✉️ How to reach me: green760223@gmail.com
 - ✍️ [Medium](https://medium.com/@lawrencechuang760223)
-- 📄 [Personal Resume](https://drive.google.com/drive/folders/14rBTwPc7cp3B19oFwCSORWW9Hx5gO8Dz)
+- 📄 [Personal Resume](https://drive.google.com/file/d/1ZtafI3tesk1HK3_8ldJKPak8qk1Whd2g/view?usp=sharing)
 
 <h2 align="center">Languages and Tools:</h2>
 
