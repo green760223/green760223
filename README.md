@@ -68,7 +68,7 @@ A little about me:
 <a href="https://www.postman.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/green760223/green760223/3380cc09a90dada58ca77e00541f7a4b212fbd7a/icons/postman.svg" alt="postman" height="42px"/> </a> 
 
 
-<a href="https://react.dev/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/React-icon.png?raw=true" alt="react" height="42px"/> </a> 
+<a href="https://react.dev/" target="_blank"> <img align="left" src="https://github.com/green760223/green760223/blob/main/icons/React-icon.png?raw=true" alt="react" height="40px"/> </a> 
 </p>
 
 
