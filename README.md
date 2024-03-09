@@ -88,7 +88,7 @@ A little about me:
 <h2 align="center">Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [如何在新安裝的 MySQL Server 上更查詢、更改使用者密碼，以及建立新的 MySQL 使用者](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%96%B0%E5%AE%89%E8%A3%9D%E7%9A%84-mysql-server-%E4%B8%8A%E6%9B%B4%E6%9F%A5%E8%A9%A2-%E6%9B%B4%E6%94%B9%E4%BD%BF%E7%94%A8%E8%80%85%E5%AF%86%E7%A2%BC-%E4%BB%A5%E5%8F%8A%E5%BB%BA%E7%AB%8B%E6%96%B0%E7%9A%84-mysql-%E4%BD%BF%E7%94%A8%E8%80%85-71630e35af9b?source=rss-18aec49417ed------2)
+- [如何在新安裝的 MySQL Server 上查詢和更改使用者密碼，並建立新的 MySQL 使用者](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%96%B0%E5%AE%89%E8%A3%9D%E7%9A%84-mysql-server-%E4%B8%8A%E6%9B%B4%E6%9F%A5%E8%A9%A2-%E6%9B%B4%E6%94%B9%E4%BD%BF%E7%94%A8%E8%80%85%E5%AF%86%E7%A2%BC-%E4%BB%A5%E5%8F%8A%E5%BB%BA%E7%AB%8B%E6%96%B0%E7%9A%84-mysql-%E4%BD%BF%E7%94%A8%E8%80%85-71630e35af9b?source=rss-18aec49417ed------2)
 - [如何在 Prometheus 中使用 MySQL Server Exporter 進行監控](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-prometheus-%E4%B8%AD%E4%BD%BF%E7%94%A8-mysql-server-exporter-%E9%80%B2%E8%A1%8C%E7%9B%A3%E6%8E%A7-3edc769ea658?source=rss-18aec49417ed------2)
 - [如何在 CentOS 7.6 上安裝 MySQL 8.0 Community Server](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-centos-7-6-%E4%B8%8A%E5%AE%89%E8%A3%9D-mysql-8-0-community-server-4bb7b8b875b6?source=rss-18aec49417ed------2)
 - [如何使用 GitHub Pages 來架設網頁](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-github-pages-%E4%BE%86%E6%9E%B6%E8%A8%AD%E7%B6%B2%E9%A0%81-662a089f4e4?source=rss-18aec49417ed------2)
