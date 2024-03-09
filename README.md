@@ -88,6 +88,8 @@ A little about me:
 <h2 align="center">Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [如何在新安裝的 MySQL Server 上更查詢、更改使用者密碼，以及建立新的 MySQL 使用者](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%96%B0%E5%AE%89%E8%A3%9D%E7%9A%84-mysql-server-%E4%B8%8A%E6%9B%B4%E6%9F%A5%E8%A9%A2-%E6%9B%B4%E6%94%B9%E4%BD%BF%E7%94%A8%E8%80%85%E5%AF%86%E7%A2%BC-%E4%BB%A5%E5%8F%8A%E5%BB%BA%E7%AB%8B%E6%96%B0%E7%9A%84-mysql-%E4%BD%BF%E7%94%A8%E8%80%85-71630e35af9b?source=rss-18aec49417ed------2)
+- [如何在 Prometheus 中使用 MySQL Server Exporter 進行監控](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-prometheus-%E4%B8%AD%E4%BD%BF%E7%94%A8-mysql-server-exporter-%E9%80%B2%E8%A1%8C%E7%9B%A3%E6%8E%A7-3edc769ea658?source=rss-18aec49417ed------2)
 - [如何在 CentOS 7.6 上安裝 MySQL 8.0 Community Server](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-centos-7-6-%E4%B8%8A%E5%AE%89%E8%A3%9D-mysql-8-0-community-server-4bb7b8b875b6?source=rss-18aec49417ed------2)
 - [如何使用 GitHub Pages 來架設網頁](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-github-pages-%E4%BE%86%E6%9E%B6%E8%A8%AD%E7%B6%B2%E9%A0%81-662a089f4e4?source=rss-18aec49417ed------2)
 - [Functional Programming — Elixir＆Phoenix 學習心得之使用安裝](https://lawrencechuang760223.medium.com/functional-programming-elixir-phoenix-%E5%AD%B8%E7%BF%92%E5%BF%83%E5%BE%97%E4%B9%8B%E4%BD%BF%E7%94%A8%E5%AE%89%E8%A3%9D-5e17d49119c4?source=rss-18aec49417ed------2)
@@ -96,8 +98,6 @@ A little about me:
 - [LINE BOT 聊天機器人 Ch3 — 使用 Python 打造第一個 LINE 聊天機器人](https://lawrencechuang760223.medium.com/line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-ch3-%E4%BD%BF%E7%94%A8-python-%E6%89%93%E9%80%A0%E7%AC%AC%E4%B8%80%E5%80%8B-line-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-f8c9f250e578?source=rss-18aec49417ed------2)
 - [LINE BOT 聊天機器人 Ch2 — 建立圖文選單](https://lawrencechuang760223.medium.com/line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-ch2-%E5%BB%BA%E7%AB%8B%E5%9C%96%E6%96%87%E9%81%B8%E5%96%AE-2af463ab7247?source=rss-18aec49417ed------2)
 - [LINE BOT 聊天機器人 Ch1 — 註冊 LINE BOT 聊天機器人](https://lawrencechuang760223.medium.com/line-bot-framework-ch1-%E8%A8%BB%E5%86%8A-line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-360dc04ad075?source=rss-18aec49417ed------2)
-- [如何在 VMware vSphere 6.7 上對虛擬機 &lpar; VMs &rpar;進行 Snapshot &lpar;快照&rpar;](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-vmware-vsphere-6-7-%E4%B8%8A%E5%B0%8D%E8%99%9B%E6%93%AC%E6%A9%9F-vms-%E9%80%B2%E8%A1%8C-snapshot-%E5%BF%AB%E7%85%A7-606f2ebcb105?source=rss-18aec49417ed------2)
-- [透過 Jupyter Notebook 針對兩個 CSV 檔案的共同欄位合併，並將合併後的內容匯出成新的 CSV 檔案](https://lawrencechuang760223.medium.com/%E9%80%8F%E9%81%8E-jupyter-notebook-%E9%87%9D%E5%B0%8D%E5%85%A9%E5%80%8B-csv-%E6%AA%94%E6%A1%88%E7%9A%84%E5%85%B1%E5%90%8C%E6%AC%84%E4%BD%8D%E5%90%88%E4%BD%B5-%E4%B8%A6%E5%B0%87%E5%90%88%E4%BD%B5%E5%BE%8C%E7%9A%84%E5%85%A7%E5%AE%B9%E5%8C%AF%E5%87%BA%E6%88%90%E6%96%B0%E7%9A%84-csv-%E6%AA%94%E6%A1%88-5994d0d14094?source=rss-18aec49417ed------2)
 <!-- BLOG-POST-LIST:END -->
 
 
