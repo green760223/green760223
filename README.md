@@ -88,6 +88,7 @@ A little about me:
 <h2 align="center">Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [如何在 CentOS 7.6 上安裝 MySQL 8.0 Community Server](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-centos-7-6-%E4%B8%8A%E5%AE%89%E8%A3%9D-mysql-8-0-community-server-4bb7b8b875b6?source=rss-18aec49417ed------2)
 - [如何使用 GitHub Pages 來架設網頁](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-github-pages-%E4%BE%86%E6%9E%B6%E8%A8%AD%E7%B6%B2%E9%A0%81-662a089f4e4?source=rss-18aec49417ed------2)
 - [Functional Programming — Elixir＆Phoenix 學習心得之使用安裝](https://lawrencechuang760223.medium.com/functional-programming-elixir-phoenix-%E5%AD%B8%E7%BF%92%E5%BF%83%E5%BE%97%E4%B9%8B%E4%BD%BF%E7%94%A8%E5%AE%89%E8%A3%9D-5e17d49119c4?source=rss-18aec49417ed------2)
 - [LINE BOT 聊天機器人 Ch5 — 如何整合 SIGFOX 與 LINE BOT 聊天機器人（上）](https://lawrencechuang760223.medium.com/line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-ch5-%E5%A6%82%E4%BD%95%E6%95%B4%E5%90%88-sigfox-%E8%88%87-line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-%E4%B8%8A-1c491f2e2ab3?source=rss-18aec49417ed------2)
@@ -97,7 +98,6 @@ A little about me:
 - [LINE BOT 聊天機器人 Ch1 — 註冊 LINE BOT 聊天機器人](https://lawrencechuang760223.medium.com/line-bot-framework-ch1-%E8%A8%BB%E5%86%8A-line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-360dc04ad075?source=rss-18aec49417ed------2)
 - [如何在 VMware vSphere 6.7 上對虛擬機 &lpar; VMs &rpar;進行 Snapshot &lpar;快照&rpar;](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-vmware-vsphere-6-7-%E4%B8%8A%E5%B0%8D%E8%99%9B%E6%93%AC%E6%A9%9F-vms-%E9%80%B2%E8%A1%8C-snapshot-%E5%BF%AB%E7%85%A7-606f2ebcb105?source=rss-18aec49417ed------2)
 - [透過 Jupyter Notebook 針對兩個 CSV 檔案的共同欄位合併，並將合併後的內容匯出成新的 CSV 檔案](https://lawrencechuang760223.medium.com/%E9%80%8F%E9%81%8E-jupyter-notebook-%E9%87%9D%E5%B0%8D%E5%85%A9%E5%80%8B-csv-%E6%AA%94%E6%A1%88%E7%9A%84%E5%85%B1%E5%90%8C%E6%AC%84%E4%BD%8D%E5%90%88%E4%BD%B5-%E4%B8%A6%E5%B0%87%E5%90%88%E4%BD%B5%E5%BE%8C%E7%9A%84%E5%85%A7%E5%AE%B9%E5%8C%AF%E5%87%BA%E6%88%90%E6%96%B0%E7%9A%84-csv-%E6%AA%94%E6%A1%88-5994d0d14094?source=rss-18aec49417ed------2)
-- [如何在Sigfox開發板UnaShield V2S上取得溫度與濕度資訊並顯示在Sigfox Backend上](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8sigfox%E9%96%8B%E7%99%BC%E6%9D%BFunashield-v2s%E4%B8%8A%E5%8F%96%E5%BE%97%E6%BA%AB%E5%BA%A6%E8%88%87%E6%BF%95%E5%BA%A6%E8%B3%87%E8%A8%8A%E4%B8%A6%E9%A1%AF%E7%A4%BA%E5%9C%A8sigfox-backend%E4%B8%8A-dc4273f2a88b?source=rss-18aec49417ed------2)
 <!-- BLOG-POST-LIST:END -->
 
 
