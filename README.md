@@ -17,7 +17,8 @@ A little about me:
 - 📸 Photographer
 - 🐕 Dog Lover
 - ✉️ How to reach me: green760223@gmail.com
-- ✍️ [Medium](https://medium.com/@lawrencechuang760223)
+- ✍️ [Medium(Blog)](https://medium.com/@lawrencechuang760223)
+- 📄 [Personal Portfolio Website](https://lawrencechuang.com/)
 - 📄 [Personal Resume](https://drive.google.com/file/d/1hkkv7JvnJwWt3XVfQ1PSHgVf5J14gPvf/view?usp=share_link)
 
 <h2 align="center">Languages and Tools:</h2>
