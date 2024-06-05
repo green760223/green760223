@@ -19,7 +19,7 @@ A little about me:
 - ✉️ How to reach me: green760223@gmail.com
 - ✍️ [Medium(Blog)](https://medium.com/@lawrencechuang760223)
 - 🌐 [Personal Portfolio Website](https://lawrencechuang.com/)
-- 📄 [Personal Resume]([https://drive.google.com/file/d/1hkkv7JvnJwWt3XVfQ1PSHgVf5J14gPvf/view?usp=share_link](https://drive.google.com/file/d/1zjgdDvD2tbDAgvsxu1acl1qFYZr_uU-q/view?usp=drive_link))
+- 📄 [Personal Resume](https://drive.google.com/file/d/1zjgdDvD2tbDAgvsxu1acl1qFYZr_uU-q/view?usp=drive_link)
 
 <h2 align="center">Languages and Tools:</h2>
 
