@@ -2,18 +2,18 @@
 
 </br>
 
-Hello, my name is Lawrence Chuang. I am from Taiwan 🇹🇼 and currently pursuing a Master's degree in Computer Science and Engineering at the [University of Nevada, Reno](https://www.unr.edu/cse). I have over 9 years of work experience in the software industry, as well as in banking technology and IoT solutions.
+Hello, my name is Lawrence Chuang. I am from Taiwan 🇹🇼 and hold dual Master's degrees: one in Computer Science and Engineering from the [University of Nevada, Reno](https://www.unr.edu/cse), and another in Information Management from the [National Taiwan University of Science and Technology](https://www.ntust.edu.tw/index.php?Lang=en). I have over 9 years of work experience in the software industry, as well as in banking technology and IoT solutions.
 
-Currently, I am employed as a Full Stack Engineer at [the Nevada System of Higher Education, System Computing Services.](https://github.com/green760223/green760223/blob/main) My expertise includes Splunk, Splunk visualization dashboards, Python, Java, HTML, Web-Service API, Sigfox IoT, Technical Support, Project Management, and Customer-Facing. 
+My expertise includes Splunk, Splunk visualization dashboards, Python, Java, JavaScript/TypeScript, React, HTML, Web-Service API, Sigfox IoT, Technical Support, Project Management, and Customer-Facing. 
 
 In addition to my professional pursuits, I am also a skilled photographer specializing in press releases, conferences, and commercials. You are welcome to explore my [Flickr](https://www.flickr.com/photos/lawrence_image/albums) albums to see examples of my work.
 </br>
 
 A little about me:
 
-- 👨🏻‍💻 I am currently working as a Full Stack Engineer at the Nevada System of Higher Education, System Computing Services.
+- 👨🏻‍💻 I am a progressive full stack engineer and a former Technical Support & Splunk Engineer at an IoT startup.
 - 🏫 University of Nevada, Reno (UNR)
-- 📚 MS in Computer Science and Engineering
+- 📚 Master of Science in Computer Science and Engineering
 - 📸 Photographer
 - 🐕 Dog Lover
 - ✉️ How to reach me: green760223@gmail.com
