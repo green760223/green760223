@@ -12,7 +12,7 @@ In addition to my professional pursuits, I am also a skilled photographer specia
 A little about me:
 
 - 👨🏻‍💻 I am a progressive full stack engineer and a former Technical Support & Splunk Engineer at an IoT startup.
-- 🏫 University of Nevada, Reno (UNR)
+- 🏫 University of Nevada, Reno (UNR) - Class of 2024 (Go Pack!)
 - 📚 Master of Science in Computer Science and Engineering
 - 📸 Photographer
 - 🐕 Dog Lover
