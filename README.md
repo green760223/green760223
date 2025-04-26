@@ -2,24 +2,35 @@
 
 </br>
 
-Hello, my name is Lawrence Chuang. I am from Taiwan 🇹🇼 and hold dual Master's degrees: one in Computer Science and Engineering from the [University of Nevada, Reno](https://www.unr.edu/cse), and another in Information Management from the [National Taiwan University of Science and Technology](https://www.ntust.edu.tw/index.php?Lang=en). I have over 9 years of work experience in the software industry, as well as in banking technology and IoT solutions.
+Hello, my name is Lawrence Chuang. I am from Taiwan 🇹🇼 and hold dual Master's degrees: one in Computer Science and Engineering from the [University of Nevada, Reno](https://www.unr.edu/cse), and another in Information Management from the [National Taiwan University of Science and Technology](https://www.ntust.edu.tw/index.php?Lang=en). I have over 10 years of work experience in the software development, learning technology, banking technology and IoT solutions.
 
-My expertise includes Splunk, Splunk visualization dashboards, Python, Java, JavaScript/TypeScript, React, HTML, Web-Service API, Sigfox IoT, Technical Support, Project Management, and Customer-Facing. 
+I specialize in Splunk, Python, Java, JavaScript/TypeScript, React, HTML, Web Service APIs, FastAPI, Grafana, Prometheus, open-source learning platforms like Moodle, AWS, and Sigfox IoT. I also have strong experience in technical support, project management, and customer-facing roles.
 
 In addition to my professional pursuits, I am also a skilled photographer specializing in press releases, conferences, and commercials. You are welcome to explore my [Flickr](https://www.flickr.com/photos/lawrence_image/albums) albums to see examples of my work.
 </br>
 
 A little about me:
 
-- 👨🏻‍💻 I am a progressive full stack engineer and a former Technical Support & Splunk Engineer at an IoT startup.
+- 🚀 Current DevOps Engineer @ Moodle US (Open Source LMS)
+- 👨🏻‍💻 Full Stack Engineer | Former Technical Support & Splunk Engineer at an IoT startup
 - 🏫 University of Nevada, Reno (UNR) - Class of 2024 (Go Pack!)
 - 📚 Master of Science in Computer Science and Engineering
-- 📸 Photographer
+- 📸 Photographer & Visual Storyteller
 - 🐕 Dog Lover
 - ✉️ How to reach me: green760223@gmail.com
 - ✍️ [Medium(Blog)](https://medium.com/@lawrencechuang760223)
 - 🌐 [Personal Portfolio Website](https://lawrencechuang.com/)
 - 📄 [Personal Resume](https://drive.google.com/file/d/1zjgdDvD2tbDAgvsxu1acl1qFYZr_uU-q/view?usp=drive_link)
+
+Tech Stack
+
+- **Programming Languages:** Python, Java
+- **Web Development:** HTML/CSS, JavaScript/TypeScript, React, RESTful API, Flask, FastAPI, Ant Design, Bootstrap, Tailwind CSS, Shadcn UI
+- **Databases:** PostgreSQL, SQLite, MySQL, MongoDB
+- **Technologies & Tools:** Splunk, Prometheus, Grafana, AWS, Sigfox LPWAN IoT, Freshdesk, Git, GitHub, DevOps, Moodle LMS
+- **Other Skills:** Technical Support, Customer Engagement, Project Management, Agile/Scrum
+- **Languages:** Fluent in English and Mandarin (Chinese)
+
 
 <h2 align="center">Languages and Tools:</h2>
 
