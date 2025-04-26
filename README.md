@@ -22,8 +22,7 @@ A little about me:
 - 🌐 [Personal Portfolio Website](https://lawrencechuang.com/)
 - 📄 [Personal Resume](https://drive.google.com/file/d/1zjgdDvD2tbDAgvsxu1acl1qFYZr_uU-q/view?usp=drive_link)
 
-##Tech Stack
-
+Tech Stack
 - **Programming Languages:** Python, Java
 - **Web Development:** HTML/CSS, JavaScript/TypeScript, React, RESTful API, Flask, FastAPI, Ant Design, Bootstrap, Tailwind CSS, Shadcn UI
 - **Databases:** PostgreSQL, SQLite, MySQL, MongoDB
