@@ -11,7 +11,7 @@ In addition to my professional pursuits, I am also a skilled photographer specia
 
 A little about me:
 
-- 🚀 Current DevOps Engineer @ Moodle US (Open Source LMS)
+- 🚀 DevOps Engineer at Moodle US — Contributing to the infrastructure and development of the world’s open-source LMS
 - 👨🏻‍💻 Full Stack Engineer | Former Technical Support & Splunk Engineer at an IoT startup
 - 🏫 University of Nevada, Reno (UNR) - Class of 2024 (Go Pack!)
 - 📚 Master of Science in Computer Science and Engineering
