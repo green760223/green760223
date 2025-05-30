@@ -99,6 +99,7 @@ Tech Stack
 <h2 align="center">Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [美國國際學生 STEM OPT 申請全攻略：教你正確填寫 I-983 表格](https://lawrencechuang760223.medium.com/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E9%9A%9B%E5%AD%B8%E7%94%9F-stem-opt-%E7%94%B3%E8%AB%8B%E5%85%A8%E6%94%BB%E7%95%A5-%E6%95%99%E4%BD%A0%E6%AD%A3%E7%A2%BA%E5%A1%AB%E5%AF%AB-i-983-%E8%A1%A8%E6%A0%BC-bc5814548dab?source=rss-18aec49417ed------2)
 - [如何在新安裝的 MySQL Server 上查詢和更改使用者密碼，並建立新的 MySQL 使用者](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%96%B0%E5%AE%89%E8%A3%9D%E7%9A%84-mysql-server-%E4%B8%8A%E6%9B%B4%E6%9F%A5%E8%A9%A2-%E6%9B%B4%E6%94%B9%E4%BD%BF%E7%94%A8%E8%80%85%E5%AF%86%E7%A2%BC-%E4%BB%A5%E5%8F%8A%E5%BB%BA%E7%AB%8B%E6%96%B0%E7%9A%84-mysql-%E4%BD%BF%E7%94%A8%E8%80%85-71630e35af9b?source=rss-18aec49417ed------2)
 - [如何在 Prometheus 中使用 MySQL Server Exporter 進行監控](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-prometheus-%E4%B8%AD%E4%BD%BF%E7%94%A8-mysql-server-exporter-%E9%80%B2%E8%A1%8C%E7%9B%A3%E6%8E%A7-3edc769ea658?source=rss-18aec49417ed------2)
 - [如何在 CentOS 7.6 上安裝 MySQL 8.0 Community Server](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8-centos-7-6-%E4%B8%8A%E5%AE%89%E8%A3%9D-mysql-8-0-community-server-4bb7b8b875b6?source=rss-18aec49417ed------2)
@@ -108,7 +109,6 @@ Tech Stack
 - [LINE BOT 聊天機器人 Ch4 — 使用 Python 打造第一個 LINE 聊天機器人（下）](https://lawrencechuang760223.medium.com/line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-ch4-%E4%BD%BF%E7%94%A8-python-%E6%89%93%E9%80%A0%E7%AC%AC%E4%B8%80%E5%80%8B-line-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-%E4%B8%8B-ca51690459f7?source=rss-18aec49417ed------2)
 - [LINE BOT 聊天機器人 Ch3 — 使用 Python 打造第一個 LINE 聊天機器人](https://lawrencechuang760223.medium.com/line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-ch3-%E4%BD%BF%E7%94%A8-python-%E6%89%93%E9%80%A0%E7%AC%AC%E4%B8%80%E5%80%8B-line-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-f8c9f250e578?source=rss-18aec49417ed------2)
 - [LINE BOT 聊天機器人 Ch2 — 建立圖文選單](https://lawrencechuang760223.medium.com/line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-ch2-%E5%BB%BA%E7%AB%8B%E5%9C%96%E6%96%87%E9%81%B8%E5%96%AE-2af463ab7247?source=rss-18aec49417ed------2)
-- [LINE BOT 聊天機器人 Ch1 — 註冊 LINE BOT 聊天機器人](https://lawrencechuang760223.medium.com/line-bot-framework-ch1-%E8%A8%BB%E5%86%8A-line-bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-360dc04ad075?source=rss-18aec49417ed------2)
 <!-- BLOG-POST-LIST:END -->
 
 
